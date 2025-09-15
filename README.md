@@ -1,3 +1,5 @@
+![Progres OI](checklista/oi_progress.svg)
+
 # Moje rozwiązania do zadań z Olimpiady Informatycznej
 
 ## Struktura repozytorium:
