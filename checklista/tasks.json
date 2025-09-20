@@ -1266,6 +1266,13 @@
         "nazwa": "imp",
         "punkty": 0
     },
+    "xxxii_etap2_probne_sss": {
+        "edycja": 32,
+        "etap": 2,
+        "dzien": 0,
+        "nazwa": "sss",
+        "punkty": 100
+    },
     "xxxii_etap1_wal": {
         "edycja": 32,
         "etap": 1,
