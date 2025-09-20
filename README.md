@@ -49,7 +49,7 @@ Po wbiciu jakiegoś zadania, np 'Rycerz:wq' z pierwszego dnia II etapu XXXI OI:
 
 Etap I | Etap II | Etap III | Łącznie
 :---: | :---: | :---: | :---:
-41/150 (27%) | 76/157 (48%) | 32/200 (16%) | 149/507 (29%)
+41/150 (27%) | 77/157 (49%) | 32/200 (16%) | 150/507 (30%)
 
 ## Rozwiązane zadania wg edycji
 
@@ -63,7 +63,7 @@ V | 1/16 (6%) | XV | 6/16 (38%) | XXV | 7/18 (39%) |  |
 VI | 2/15 (13%) | XVI | 5/16 (31%) | XXVI | 5/17 (29%) |  | 
 VII | 4/15 (27%) | XVII | 8/17 (47%) | XXVII | 3/10 (30%) |  | 
 VIII | 4/15 (27%) | XVIII | 7/17 (41%) | XXVIII | 4/17 (24%) |  | 
-IX | 6/15 (40%) | XIX | 6/17 (35%) | XXIX | 4/17 (24%) |  | 
+IX | 6/15 (40%) | XIX | 6/17 (35%) | XXIX | 5/17 (29%) |  | 
 X | 2/16 (12%) | XX | 4/17 (24%) | XXX | 6/17 (35%) |  |
 
 
@@ -137,7 +137,7 @@ XXV | prz ✅ | kon ✅ | dro ✅ | tom ✅ | tel ✅
 XXVI |   | kol ✅ | gwi ✅ | osi ✅ | cyk ✅
 XXVII | wak 🤔 | czw ✅ | wie ✅ | tru 🤔 | mar ✅
 XXVIII | pro ✅ | ple ✅ |   | pla ✅ |  
-XXIX | arm 🤔 | age 🤔 | lic ✅ | kon 🤔 |  
+XXIX | arm 🤔 | age ✅ | lic ✅ | kon 🤔 |  
 XXX | wir ✅ | gra ✅ | wag ✅ | drw ✅ | wsp ✅
 XXXI | tel ✅ | lic ✅ | ryc 🤔 | cia ✅ | poj ✅
 XXXII |   |   |   |   |
