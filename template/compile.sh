@@ -16,5 +16,5 @@ else
         -Wall -Wextra -Wshadow -Wconversion \
         -Wfloat-equal -Wfloat-conversion \
         -D_GLIBCXX_DEBUG -D_GLIBCXX_DEBUG_PEDANTIC -D_GLIBCXX_SANITIZE_VECTOR -D_GLIBCXX_PEDANTIC \
-        -D_GLIBCXX_ASSERTIONS -D_FORTIFY_SOURCE=2 -DLOCAL -fsanitize=undefined
+        -D_GLIBCXX_ASSERTIONS -DLOCAL -fsanitize=undefined
 fi
