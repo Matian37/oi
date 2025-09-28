@@ -49,14 +49,14 @@ Po wbiciu jakiegoś zadania, np 'Rycerz:wq' z pierwszego dnia II etapu XXXI OI:
 
 Etap I | Etap II | Etap III | Łącznie
 :---: | :---: | :---: | :---:
-41/150 (27%) | 79/157 (50%) | 32/200 (16%) | 152/507 (30%)
+41/150 (27%) | 80/157 (51%) | 32/200 (16%) | 153/507 (30%)
 
 ## Rozwiązane zadania wg edycji
 
 Edycja | Wynik | Edycja | Wynik | Edycja | Wynik | Edycja | Wynik
 :--- | ---: | :--- | ---: | :--- | ---: | :--- | ---:
 I | 4/10 (40%) | XI | 1/16 (6%) | XXI | 6/17 (35%) | XXXI | 9/17 (53%)
-II | 5/14 (36%) | XII | 3/17 (18%) | XXII | 6/17 (35%) | XXXII | 7/18 (39%)
+II | 5/14 (36%) | XII | 3/17 (18%) | XXII | 6/17 (35%) | XXXII | 8/18 (44%)
 III | 0/13 (0%) | XIII | 5/16 (31%) | XXIII | 7/17 (41%) |  | 
 IV | 3/16 (19%) | XIV | 2/16 (12%) | XXIV | 9/16 (56%) |  | 
 V | 1/16 (6%) | XV | 6/16 (38%) | XXV | 7/18 (39%) |  | 
@@ -140,7 +140,7 @@ XXVIII | pro ✅ | ple ✅ |   | pla ✅ |
 XXIX | arm 🤔 | lic ✅ | age ✅ | kon 🤔 |  
 XXX | wir ✅ | wag ✅ | gra ✅ | wsp ✅ | drw ✅
 XXXI | tel ✅ | lic ✅ | ryc 🤔 | cia ✅ | poj ✅
-XXXII | sss ✅ |   |   |   |
+XXXII | sss ✅ | drz ✅ |   |   |
 
 
 ## Rozwiązane zadania z III etapu

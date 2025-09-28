@@ -1280,6 +1280,13 @@
         "nazwa": "sss",
         "punkty": 100
     },
+    "xxxii_etap2_dzien1_drz": {
+        "edycja": 32,
+        "etap": 2,
+        "dzien": 1,
+        "nazwa": "drz",
+        "punkty": 100
+    },
     "xxxii_etap1_bit": {
         "edycja": 32,
         "etap": 1,
