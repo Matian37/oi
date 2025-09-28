@@ -49,97 +49,97 @@ Po wbiciu jakiegoś zadania, np 'Rycerz:wq' z pierwszego dnia II etapu XXXI OI:
 
 Etap I | Etap II | Etap III | Łącznie
 :---: | :---: | :---: | :---:
-0/150 (0%) | 3/157 (2%) | 0/200 (0%) | 3/507 (1%)
+41/150 (27%) | 79/157 (50%) | 32/200 (16%) | 152/507 (30%)
 
 ## Rozwiązane zadania wg edycji
 
 Edycja | Wynik | Edycja | Wynik | Edycja | Wynik | Edycja | Wynik
 :--- | ---: | :--- | ---: | :--- | ---: | :--- | ---:
-I | 0/10 (0%) | XI | 0/16 (0%) | XXI | 0/17 (0%) | XXXI | 0/17 (0%)
-II | 0/14 (0%) | XII | 0/17 (0%) | XXII | 0/17 (0%) | XXXII | 1/18 (6%)
-III | 0/13 (0%) | XIII | 0/16 (0%) | XXIII | 1/17 (6%) |  | 
-IV | 0/16 (0%) | XIV | 0/16 (0%) | XXIV | 0/16 (0%) |  | 
-V | 0/16 (0%) | XV | 0/16 (0%) | XXV | 0/18 (0%) |  | 
-VI | 0/15 (0%) | XVI | 0/16 (0%) | XXVI | 0/17 (0%) |  | 
-VII | 0/15 (0%) | XVII | 0/17 (0%) | XXVII | 0/10 (0%) |  | 
-VIII | 0/15 (0%) | XVIII | 0/17 (0%) | XXVIII | 0/17 (0%) |  | 
-IX | 0/15 (0%) | XIX | 0/17 (0%) | XXIX | 1/17 (6%) |  | 
-X | 0/16 (0%) | XX | 0/17 (0%) | XXX | 0/17 (0%) |  |
+I | 4/10 (40%) | XI | 1/16 (6%) | XXI | 6/17 (35%) | XXXI | 9/17 (53%)
+II | 5/14 (36%) | XII | 3/17 (18%) | XXII | 6/17 (35%) | XXXII | 7/18 (39%)
+III | 0/13 (0%) | XIII | 5/16 (31%) | XXIII | 7/17 (41%) |  | 
+IV | 3/16 (19%) | XIV | 2/16 (12%) | XXIV | 9/16 (56%) |  | 
+V | 1/16 (6%) | XV | 6/16 (38%) | XXV | 7/18 (39%) |  | 
+VI | 2/15 (13%) | XVI | 5/16 (31%) | XXVI | 5/17 (29%) |  | 
+VII | 4/15 (27%) | XVII | 8/17 (47%) | XXVII | 3/10 (30%) |  | 
+VIII | 4/15 (27%) | XVIII | 7/17 (41%) | XXVIII | 4/17 (24%) |  | 
+IX | 6/15 (40%) | XIX | 6/17 (35%) | XXIX | 5/17 (29%) |  | 
+X | 2/16 (12%) | XX | 4/17 (24%) | XXX | 6/17 (35%) |  |
 
 
 ## Rozwiązane zadania z I etapu
 
 Edycja | zad. 1 | zad. 2 | zad. 3 | zad. 4 | zad. 5 | zad. 6
 :--- | ---: | ---: | ---: | ---: | ---: | ---:
-I |   |   |   | — | — | —
-II |   |   |   |   | — | —
-III |   |   |   |   | — | —
+I | spo ✅ | pio 🤔 | tro ✅ | — | — | —
+II | jed ✅ | jez ✅ | pal ✅ | drz ✅ | — | —
+III | gon 🤔 |   |   |   | — | —
 IV |   |   |   |   | — | —
 V |   |   |   |   | — | —
 VI |   |   |   |   | — | —
-VII |   |   |   |   | — | —
-VIII |   |   |   |   | — | —
-IX |   |   |   |   | — | —
-X |   |   |   |   |   | —
+VII | bro ✅ | pas ✅ |   |   | — | —
+VIII | map ✅ | prz ✅ | ant ✅ |   | — | —
+IX | kom ✅ | wys ✅ | kol ✅ |   | — | —
+X | cze ✅ | prz ✅ |   |   |   | —
 XI |   |   |   |   |   | —
 XII |   |   |   |   |   | —
-XIII |   |   |   |   |   | —
+XIII | kra ✅ | okr ✅ |   |   |   | —
 XIV |   |   |   |   |   | —
-XV |   |   |   |   |   | —
-XVI |   |   |   |   |   | —
-XVII |   |   |   |   |   | —
-XVIII |   |   |   |   |   | —
-XIX |   |   |   |   |   | —
+XV | pla ✅ |   |   |   |   | —
+XVI | kam ✅ |   |   |   |   | —
+XVII | gil ✅ | kor ✅ | tes ✅ |   |   | —
+XVIII | liz ✅ |   |   |   |   | —
+XIX | lit ✅ |   |   |   |   | —
 XX |   |   |   |   |   | —
-XXI |   |   |   |   |   | —
+XXI | kur ✅ |   |   |   |   | —
 XXII |   |   |   |   |   | —
 XXIII |   |   |   |   |   | —
-XXIV |   |   |   |   |   | —
-XXV |   |   |   |   |   | —
-XXVI |   |   |   |   |   | —
-XXVII |   |   |   |   |   | —
-XXVIII |   |   |   |   |   | —
+XXIV | rep 🤔 | sab ✅ | pod ✅ |   |   | —
+XXV | pow 🤔 | pra 🤔 |   |   |   | —
+XXVI | klu 🤔 | nie 🤔 |   |   |   | —
+XXVII | pom 🤔 |   |   |   |   | —
+XXVIII | cuk ✅ |   |   |   |   | —
 XXIX |   |   |   |   |   | —
-XXX |   |   |   |   |   | —
-XXXI |   |   |   |   |   | —
-XXXII |   |   |   |   |   |
+XXX | ply ✅ |   |   |   |   | —
+XXXI | zap ✅ | prz ✅ | bud ✅ | cza ✅ | sat ✅ | —
+XXXII | bit ✅ | wal ✅ | spr ✅ | zam ✅ | usu ✅ | kas ✅
 
 
 ## Rozwiązane zadania z II etapu
 
 Edycja | zad. próbne | Dzień 1 - zad. 1 | Dzień 1 - zad. 2 | Dzień 2 - zad. 1 | Dzień 2 - zad. 2
 :--- | ---: | ---: | ---: | ---: | ---:
-I |   |   | — |   | —
-II |   |   |   |   |  
-III |   |   | — |   |  
+I | sum ✅ |   | — |   | —
+II |   | tro ✅ |   |   |  
+III |   |   | — | haz 🤔 |  
 IV |   |   |   |   |  
-V |   |   |   |   |  
-VI |   |   |   |   |  
-VII |   |   |   |   |  
+V |   | row ✅ |   | ple 🤔 |  
+VI |   | lun ✅ |   | bit ✅ |  
+VII | pod 🤔 | tro ✅ |   |   |  
 VIII |   |   |   |   |  
-IX |   |   |   |   |  
+IX | izo ✅ | dzi ✅ |   |   |  
 X |   |   |   |   |  
 XI |   |   |   |   |  
-XII |   |   |   |   |  
-XIII |   |   |   |   |  
-XIV |   |   |   |   |  
-XV |   |   |   |   |  
-XVI |   |   |   |   |  
-XVII |   |   |   |   |  
-XVIII |   |   |   |   |  
-XIX |   |   |   |   |  
-XX |   |   |   |   |  
-XXI |   |   |   |   |  
-XXII |   |   |   |   |  
-XXIII |   | zaj ✅ |   |   |  
-XXIV |   |   |   |   |  
-XXV |   |   |   |   |  
-XXVI |   |   |   |   |  
-XXVII |   |   |   |   |  
-XXVIII |   |   |   |   |  
-XXIX |   | age ✅ |   |   |  
-XXX |   |   |   |   |  
-XXXI |   |   |   |   |  
+XII |   | ban ✅ |   | kos 🤔 | sza ✅
+XIII |   | met ✅ | naj ✅ |   |  
+XIV |   |   |   | tet ✅ |  
+XV | blo 🤔 | bbb ✅ | poc ✅ | maf ✅ | uci ✅
+XVI |   | kon ✅ | baj ✅ | lyz ✅ | arc ✅
+XVII |   | cho ✅ | klo ✅ | tel ✅ | owc 🤔
+XVIII |   | smi ✅ | roz ✅ | rod ✅ | tem ✅
+XIX |   | bon ✅ | sza ✅ | roz ✅ | okr ✅
+XX | spa 🤔 | luk 🤔 |   | mor ✅ | kon ✅
+XXI |   | prz ✅ |   | raj ✅ | pta ✅
+XXII |   | pod ✅ | pus ✅ | trz ✅ | kur ✅
+XXIII | swi ✅ | dro ✅ | zaj ✅ | wca ✅ | ark ✅
+XXIV | zaw ✅ | sum ✅ | str ✅ | kon ✅ | zam ✅
+XXV | prz ✅ | dro ✅ | kon ✅ | tom ✅ | tel ✅
+XXVI | roz 🤔 | gwi ✅ | kol ✅ | cyk ✅ | osi ✅
+XXVII | wak 🤔 | wie ✅ | czw ✅ | mar ✅ | tru 🤔
+XXVIII | pro ✅ | ple ✅ |   | pla ✅ |  
+XXIX | arm 🤔 | lic ✅ | age ✅ | kon 🤔 |  
+XXX | wir ✅ | wag ✅ | gra ✅ | wsp ✅ | drw ✅
+XXXI | tel ✅ | lic ✅ | ryc 🤔 | cia ✅ | poj ✅
 XXXII | sss ✅ |   |   |   |
 
 
@@ -147,34 +147,34 @@ XXXII | sss ✅ |   |   |   |
 
 Edycja | Dzień próbny, zad. 1 | Dzień próbny, zad. 2 | Dzień 1 - zad. 1 | Dzień 1 - zad. 2 | Dzień 1 - zad. 3 | Dzień 2 - zad. 1 | Dzień 2 - zad. 2 | Dzień 2 - zad. 3
 :--- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---:
-I |   | — |   |   | — |   | — | —
+I |   | — | ana ✅ |   | — |   | — | —
 II |   | — |   |   | — |   |   | —
 III |   | — |   |   | — |   |   | —
-IV |   | — |   |   |   |   |   | —
+IV |   | — | kaj ✅ | tro ✅ |   | rez ✅ |   | —
 V |   | — |   |   |   |   |   |  
 VI |   | — |   |   | — |   |   |  
-VII |   | — |   |   | — |   |   |  
-VIII |   | — |   |   | — |   |   |  
-IX |   | — |   |   | — |   |   |  
+VII |   | — |   |   | — | age ✅ |   |  
+VIII |   | — |   |   | — | kop ✅ |   |  
+IX | min ✅ | — |   |   | — |   |   |  
 X |   | — |   |   | — |   |   |  
-XI |   | — |   |   |   |   |   | —
-XII |   | — |   |   |   |   |   |  
-XIII |   | — |   |   | — |   |   |  
-XIV |   | — |   |   | — |   |   |  
-XV |   | — |   |   |   |   |   | —
+XI |   | — |   |   |   | mis ✅ |   | —
+XII |   | — |   |   |   | aut ✅ |   |  
+XIII |   | — |   |   | — | pal ✅ |   |  
+XIV |   | — | gaz ✅ |   | — |   |   |  
+XV |   | — | pod 🤔 |   |   | sta ✅ |   | —
 XVI |   | — |   |   |   |   |   | —
-XVII |   | — |   |   |   |   |   |  
-XVIII |   | — |   |   |   |   |   |  
-XIX |   | — |   |   |   |   |   |  
-XX |   | — |   |   |   |   |   |  
-XXI |   | — |   |   |   |   |   |  
-XXII |   | — |   |   |   |   |   |  
-XXIII |   | — |   |   |   |   |   |  
-XXIV |   | — |   |   |   |   |   | —
-XXV |   |   |   |   |   |   |   |  
-XXVI |   | — |   |   |   |   |   |  
+XVII |   | — | gra ✅ |   |   | pil ✅ |   |  
+XVIII |   | — |   |   |   | pat ✅ |   |  
+XIX |   | — | lic ✅ |   |   |   |   |  
+XX |   | — | lan ✅ |   |   | las ✅ |   |  
+XXI | far ✅ | — | tur 🤔 |   |   | zal ✅ |   |  
+XXII |   | — | wil ✅ |   |   | kol ✅ |   |  
+XXIII |   | — | zyw ✅ | pra ✅ | pos 🤔 |   |   |  
+XXIV |   | — | mid ✅ | oce ✅ |   | kuc 🤔 |   | —
+XXV | trz ✅ |   | kom 🤔 |   |   | tak ✅ |   |  
+XXVI |   | — | zja 🤔 | rem 🤔 |   | dlu ✅ |   |  
 XXVII | — | — | — | — | — | — | — | —
-XXVIII |   | — |   |   |   |   |   |  
-XXIX |   |   |   |   |   |   |   |  
+XXVIII | kol 🤔 | — |   |   |   |   |   |  
+XXIX | zer ✅ |   | wyb ✅ | rze 🤔 | glo ✅ | met 🤔 |   |  
 XXX |   | — |   |   |   |   |   |  
-XXXI |   | — |   |   |   |   |   |
+XXXI | sta 🤔 | — | buk 🤔 | wys 🤔 | ska 🤔 | wyj 🤔 |   |
