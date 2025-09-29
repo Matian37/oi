@@ -1273,6 +1273,13 @@
         "nazwa": "ska",
         "punkty": 0
     },
+    "xxxii_etap2_dzien2_por": {
+        "edycja": 32,
+        "etap": 2,
+        "dzien": 2,
+        "nazwa": "por",
+        "punkty": 100
+    },
     "xxxii_etap2_probne_sss": {
         "edycja": 32,
         "etap": 2,

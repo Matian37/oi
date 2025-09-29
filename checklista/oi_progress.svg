@@ -5,10 +5,10 @@
 <title>1 Etap – 27%</title></rect>
 <text x="78.0" y="10.0" text-anchor="middle" dominant-baseline="middle" font-size="10" fill="white" font-family="monospace">I</text>
 <text x="110" y="10.0" text-anchor="middle" dominant-baseline="middle" font-size="10" fill="white" font-family="monospace">27%</text>
-<rect x="90" y="23" width="40" height="20" fill="rgba(0,255,0,0.50)" stroke="white" stroke-width="1">
-<title>2 Etap – 50%</title></rect>
+<rect x="90" y="23" width="40" height="20" fill="rgba(0,255,0,0.51)" stroke="white" stroke-width="1">
+<title>2 Etap – 51%</title></rect>
 <text x="78.0" y="33.0" text-anchor="middle" dominant-baseline="middle" font-size="10" fill="white" font-family="monospace">II</text>
-<text x="110" y="33.0" text-anchor="middle" dominant-baseline="middle" font-size="10" fill="white" font-family="monospace">50%</text>
+<text x="110" y="33.0" text-anchor="middle" dominant-baseline="middle" font-size="10" fill="white" font-family="monospace">51%</text>
 <rect x="90" y="46" width="40" height="20" fill="rgba(0,255,0,0.16)" stroke="white" stroke-width="1">
 <title>3 Etap – 16%</title></rect>
 <text x="78.0" y="56.0" text-anchor="middle" dominant-baseline="middle" font-size="10" fill="white" font-family="monospace">III</text>
@@ -232,8 +232,8 @@
 <text x="836.0" y="78" text-anchor="middle" dominant-baseline="middle" font-size="5" fill="white" font-family="monospace">XXXI</text>
 <rect x="849.0" y="0" width="20" height="20" fill="gold" stroke="white" stroke-width="1">
 <title>1 Etap 32 OI – 100%</title></rect>
-<rect x="849.0" y="23" width="20" height="20" fill="rgba(0,255,0,0.40)" stroke="white" stroke-width="1">
-<title>2 Etap 32 OI – 40%</title></rect>
+<rect x="849.0" y="23" width="20" height="20" fill="rgba(0,255,0,0.60)" stroke="white" stroke-width="1">
+<title>2 Etap 32 OI – 60%</title></rect>
 <rect x="849.0" y="46" width="20" height="20" fill="rgba(0,0,0,0)" stroke="white" stroke-width="1">
 <title>3 Etap 32 OI – 0%</title></rect>
 <text x="859.0" y="78" text-anchor="middle" dominant-baseline="middle" font-size="5" fill="white" font-family="monospace">XXXII</text>
