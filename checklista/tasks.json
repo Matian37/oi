@@ -636,6 +636,13 @@
         "nazwa": "pta",
         "punkty": 100
     },
+    "xxi_etap2_probne_kar": {
+        "edycja": 21,
+        "etap": 2,
+        "dzien": 0,
+        "nazwa": "kar",
+        "punkty": 100
+    },
     "xxi_etap2_dzien1_prz": {
         "edycja": 21,
         "etap": 2,
@@ -1271,6 +1278,13 @@
         "etap": 3,
         "dzien": 1,
         "nazwa": "ska",
+        "punkty": 0
+    },
+    "xxxii_etap2_dzien2_sch": {
+        "edycja": 32,
+        "etap": 2,
+        "dzien": 2,
+        "nazwa": "sch",
         "punkty": 0
     },
     "xxxii_etap2_dzien2_por": {

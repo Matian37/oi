@@ -5,10 +5,10 @@
 <title>1 Etap – 27%</title></rect>
 <text x="78.0" y="10.0" text-anchor="middle" dominant-baseline="middle" font-size="10" fill="white" font-family="monospace">I</text>
 <text x="110" y="10.0" text-anchor="middle" dominant-baseline="middle" font-size="10" fill="white" font-family="monospace">27%</text>
-<rect x="90" y="23" width="40" height="20" fill="rgba(0,255,0,0.51)" stroke="white" stroke-width="1">
-<title>2 Etap – 51%</title></rect>
+<rect x="90" y="23" width="40" height="20" fill="rgba(0,255,0,0.52)" stroke="white" stroke-width="1">
+<title>2 Etap – 52%</title></rect>
 <text x="78.0" y="33.0" text-anchor="middle" dominant-baseline="middle" font-size="10" fill="white" font-family="monospace">II</text>
-<text x="110" y="33.0" text-anchor="middle" dominant-baseline="middle" font-size="10" fill="white" font-family="monospace">51%</text>
+<text x="110" y="33.0" text-anchor="middle" dominant-baseline="middle" font-size="10" fill="white" font-family="monospace">52%</text>
 <rect x="90" y="46" width="40" height="20" fill="rgba(0,255,0,0.16)" stroke="white" stroke-width="1">
 <title>3 Etap – 16%</title></rect>
 <text x="78.0" y="56.0" text-anchor="middle" dominant-baseline="middle" font-size="10" fill="white" font-family="monospace">III</text>
@@ -155,8 +155,8 @@
 <text x="583.0" y="78" text-anchor="middle" dominant-baseline="middle" font-size="5" fill="white" font-family="monospace">XX</text>
 <rect x="596.0" y="0" width="20" height="20" fill="rgba(0,255,0,0.20)" stroke="white" stroke-width="1">
 <title>1 Etap 21 OI – 20%</title></rect>
-<rect x="596.0" y="23" width="20" height="20" fill="rgba(0,255,0,0.60)" stroke="white" stroke-width="1">
-<title>2 Etap 21 OI – 60%</title></rect>
+<rect x="596.0" y="23" width="20" height="20" fill="rgba(0,255,0,0.80)" stroke="white" stroke-width="1">
+<title>2 Etap 21 OI – 80%</title></rect>
 <rect x="596.0" y="46" width="20" height="20" fill="rgba(0,255,0,0.28)" stroke="white" stroke-width="1">
 <title>3 Etap 21 OI – 28%</title></rect>
 <text x="606.0" y="78" text-anchor="middle" dominant-baseline="middle" font-size="5" fill="white" font-family="monospace">XXI</text>
