@@ -979,6 +979,13 @@
         "nazwa": "dlu",
         "punkty": 100
     },
+    "xxvi_etap3_probne_met": {
+        "edycja": 26,
+        "etap": 3,
+        "dzien": 0,
+        "nazwa": "met",
+        "punkty": 100
+    },
     "xxvi_etap3_dzien1_zja": {
         "edycja": 26,
         "etap": 3,
