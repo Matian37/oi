@@ -49,7 +49,7 @@ Po wbiciu jakiegoś zadania, np 'Rycerz:wq' z pierwszego dnia II etapu XXXI OI:
 
 Etap I | Etap II | Etap III | Łącznie
 :---: | :---: | :---: | :---:
-41/150 (27%) | 82/157 (52%) | 33/200 (16%) | 156/507 (31%)
+41/150 (27%) | 82/157 (52%) | 34/200 (17%) | 157/507 (31%)
 
 ## Rozwiązane zadania wg edycji
 
@@ -59,7 +59,7 @@ I | 4/10 (40%) | XI | 1/16 (6%) | XXI | 7/17 (41%) | XXXI | 9/17 (53%)
 II | 5/14 (36%) | XII | 3/17 (18%) | XXII | 6/17 (35%) | XXXII | 9/18 (50%)
 III | 0/13 (0%) | XIII | 5/16 (31%) | XXIII | 7/17 (41%) |  | 
 IV | 3/16 (19%) | XIV | 2/16 (12%) | XXIV | 9/16 (56%) |  | 
-V | 1/16 (6%) | XV | 6/16 (38%) | XXV | 7/18 (39%) |  | 
+V | 1/16 (6%) | XV | 6/16 (38%) | XXV | 8/18 (44%) |  | 
 VI | 2/15 (13%) | XVI | 5/16 (31%) | XXVI | 6/17 (35%) |  | 
 VII | 4/15 (27%) | XVII | 8/17 (47%) | XXVII | 3/10 (30%) |  | 
 VIII | 4/15 (27%) | XVIII | 7/17 (41%) | XXVIII | 4/17 (24%) |  | 
@@ -171,7 +171,7 @@ XXI | far ✅ | — | tur 🤔 |   |   | zal ✅ |   |
 XXII |   | — | wil ✅ |   |   | kol ✅ |   |  
 XXIII |   | — | zyw ✅ | pra ✅ | pos 🤔 |   |   |  
 XXIV |   | — | mid ✅ | oce ✅ |   | kuc 🤔 |   | —
-XXV | trz ✅ |   | kom 🤔 |   |   | tak ✅ |   |  
+XXV | trz ✅ | dwa ✅ | kom 🤔 |   |   | tak ✅ |   |  
 XXVI | met ✅ | — | zja 🤔 | rem 🤔 |   | dlu ✅ |   |  
 XXVII | — | — | — | — | — | — | — | —
 XXVIII | kol 🤔 | — |   |   |   |   |   |  

@@ -916,6 +916,13 @@
         "nazwa": "trz",
         "punkty": 100
     },
+    "xxv_etap3_probne_dwa": {
+        "edycja": 25,
+        "etap": 3,
+        "dzien": 0,
+        "nazwa": "dwa",
+        "punkty": 100
+    },
     "xxv_etap3_dzien1_kom": {
         "edycja": 25,
         "etap": 3,
