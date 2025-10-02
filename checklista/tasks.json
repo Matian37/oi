@@ -902,6 +902,13 @@
         "nazwa": "pra",
         "punkty": 26
     },
+    "xxv_etap1_pio": {
+        "edycja": 25,
+        "etap": 1,
+        "dzien": 0,
+        "nazwa": "pio",
+        "punkty": 100
+    },
     "xxv_etap3_dzien2_tak": {
         "edycja": 25,
         "etap": 3,
