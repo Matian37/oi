@@ -538,6 +538,13 @@
         "nazwa": "pat",
         "punkty": 100
     },
+    "xviii_etap3_dzien2_met": {
+        "edycja": 18,
+        "etap": 3,
+        "dzien": 2,
+        "nazwa": "met",
+        "punkty": 100
+    },
     "xix_etap2_dzien2_roz": {
         "edycja": 19,
         "etap": 2,
