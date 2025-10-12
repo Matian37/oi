@@ -49,14 +49,14 @@ Po wbiciu jakiegoś zadania, np 'Rycerz:wq' z pierwszego dnia II etapu XXXI OI:
 
 Etap I | Etap II | Etap III | Łącznie
 :---: | :---: | :---: | :---:
-42/150 (28%) | 82/157 (52%) | 35/200 (18%) | 159/507 (31%)
+42/150 (28%) | 82/157 (52%) | 36/200 (18%) | 160/507 (32%)
 
 ## Rozwiązane zadania wg edycji
 
 Edycja | Wynik | Edycja | Wynik | Edycja | Wynik | Edycja | Wynik
 :--- | ---: | :--- | ---: | :--- | ---: | :--- | ---:
 I | 4/10 (40%) | XI | 1/16 (6%) | XXI | 7/17 (41%) | XXXI | 9/17 (53%)
-II | 5/14 (36%) | XII | 3/17 (18%) | XXII | 6/17 (35%) | XXXII | 9/18 (50%)
+II | 5/14 (36%) | XII | 3/17 (18%) | XXII | 6/17 (35%) | XXXII | 10/18 (56%)
 III | 0/13 (0%) | XIII | 5/16 (31%) | XXIII | 7/17 (41%) |  | 
 IV | 3/16 (19%) | XIV | 2/16 (12%) | XXIV | 9/16 (56%) |  | 
 V | 1/16 (6%) | XV | 6/16 (38%) | XXV | 9/18 (50%) |  | 

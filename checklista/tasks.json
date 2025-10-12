@@ -1378,6 +1378,13 @@
         "nazwa": "kas",
         "punkty": 100
     },
+    "xxxii_etap3_probne_zer": {
+        "edycja": 32,
+        "etap": 3,
+        "dzien": 0,
+        "nazwa": "zer",
+        "punkty": 100
+    },
     "xxxii_etap3_dzien1_imp": {
         "edycja": 32,
         "etap": 3,
