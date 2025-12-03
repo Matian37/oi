@@ -762,6 +762,13 @@
         "nazwa": "zaj",
         "punkty": 100
     },
+    "xxiii_etap3_probne_row": {
+        "edycja": 23,
+        "etap": 3,
+        "dzien": 0,
+        "nazwa": "row",
+        "punkty": 100
+    },
     "xxiii_etap3_dzien1_zyw": {
         "edycja": 23,
         "etap": 3,
