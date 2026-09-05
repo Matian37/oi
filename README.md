@@ -1,39 +1,14 @@
 ![Progres OI](checklista/oi_progress.svg)
 
-# Moje rozwiązania do zadań z Olimpiady Informatycznej
+# My solutions to problems from Polish Olympiad in Informatics
 
-## Struktura repozytorium:
+## Structure
 
-Zawartości katalogów `skrypty`, oraz `materialy` łatwo się domyślić, zachęcam do zapoznania się z nią.
-W katalogu `rozwiazania` znajdziesz wszystkie rozwiązania zadań z OI, które zaimplementowałem.
-Katalog `rozwiazania/<edycja_oi>/<etap_oi>/[dzień_etapu]/<skrót zadania>` zawiera pliki dotyczące danego zadania z OI.
-- `<skrót zadania>.cpp` - moje rozwiązanie zadania, które otrzymuje 100 pkt na testach na sio2/szkopule, 
-        dodatkowo z dopiskiem `_alt` bądź `_oi` pojawiają się czasem rozwiązania alternatywne oraz wprost z omówienia zadania,
-        w przypadkach gdy rozwiązałem zadanie na 100 punktów na kilka różnych sposobów.
-- `<skrót zadania><liczba punktów>.cpp` - Rozwiązania, które dostają mniej niż 100 punktów, takie jak bruty, bądź rozwiązania podgrup.
-I dosyć często również pliki: 
-- `<skrót zadania>g.cpp` - moja generatorka do zadania, której używałem testując rozwiązanie.
-- `<skrót zadania>chk.cpp` - moja czekerka w przypadku zadań, w których istnieje więcej niż jedno poprawne rozwiązanie inne niż generowane przez bruta.
-- Katalog `virtual_contest/`, zawierający moje skrypty, generatorki, czekerki i różne podejścia do zadania w przypadku, gdy symulowałem ograniczenia czasu i widoczności werdyktów występujące na olimpiadzie, tzn. w przypadku etapów I i II olimpiady, nie mogłem poznać liczby punktów, które dostanie moje zadanie na sprawdzarce szkopuł. Testowałem rozwiązanie lokalnie, i wysyłałem dopiero po przetestowaniu. Rozwiązania zadań z III etapu mogłem wysłać do 10 rozwiązań na szkopuła poznając ich wynik.
-
-Katalogi `checklista` oraz `.github` zawierają skrypty automatycznie generujące checklisty, nie należy ich modyfikować. 
-Jeśli coś nie działa, daj mi znać przez [Issue](https://github.com/Kulezi/oi/issues) na GitHubie.
-
-Przykładowo katalog `rozwiazania/xxv/etap3/dzien1/kom/` będzie zawierał moje rozwiązania do zadania 'Liczby kompletne' z III etapu XXV OI.
-Rozwiązania konkretnego zadanie można łatwo znaleźć sprawdzając, z której edycji i etapu olimpiady jest na [Liście zadań OI](https://oi.edu.pl/l/oi_zadania/),
-bądź przy pomocy polecenia `grep 'nazwa zadania' -R .` wywołanego z głównego katalogu repozytorium, np. `grep `Trójkąty` -R .`.
-
-## Jak samemu skorzystać z checklisty:
-
-Sforkuj [szablon](https://github.com/testowyuczen/oi) tego repozytorium [klikając tutaj](https://github.com/testowyuczen/oi/fork), i w zakładce Actions swojego repozytorium kliknij `I understand my workflows, go ahead and enable them` - bez tego checklista nie będzie się aktualizować automatycznie.
-
-Po wbiciu jakiegoś zadania, np 'Rycerz:wq' z pierwszego dnia II etapu XXXI OI:
-- Zapisz rozwiązanie. np. w pliku `rozwiazania/xxxi/etap2/dzien1/ryc/ryc.cpp`.
-- Dodaj je do repozytorium wykonując `git add `rozwiazania/xxxi/etap2/dzien1/ryc/ryc.cpp`, (przy pomocy `git status` możesz zobaczyć co już dodałeś w tym commicie).
-- Scommituj je np. w ten sposób: `git commit -m "Dodano rozwiązanie zadania 'Rycerz' z XXXI OI"` (jeśli zapomnieliśmy czegoś dodać wystarczy powtórzyć poprzedni krok i użyć `git commit --am`.
-- Zaktualizuj repozytorium na GitHub o lokalne zmiany przy pomocy `git push`, ewentualnie `git push -f`.
-- Checklista w `README.md` na GitHub zaktualizuje się automatycznie w ciągu kilku minut.
-- `git pull` wciągnie aktualną wersję checklisty z GitHuba (bez tego będziesz potrzebował robić `git push -f` przy każdym pushu.
+Repo contains four important parts:
+* `rozwiazania/` - my c++ solutions for problems from Polish Olympiad in Informatics
+* `checklista/` - checklist updater (from forked repo) 
+* `template/` - useful scripts used in my competitive programming competitions
+* `README.md` - shows checklist with detailed statistics for each editions, stage etc.
 
 <!-- AUTO-CHECKLIST -->
 
@@ -71,38 +46,38 @@ X | 2/16 (12%) | XX | 4/17 (24%) | XXX | 6/17 (35%) |  |
 
 Edycja | zad. 1 | zad. 2 | zad. 3 | zad. 4 | zad. 5 | zad. 6
 :--- | ---: | ---: | ---: | ---: | ---: | ---:
-I | spo ✅ | pio 🤔 | tro ✅ | — | — | —
-II | jed ✅ | jez ✅ | pal ✅ | drz ✅ | — | —
+I | pio 🤔 | spo ✅ | tro ✅ | — | — | —
+II | drz ✅ | jed ✅ | pal ✅ | jez ✅ | — | —
 III | gon 🤔 |   |   |   | — | —
 IV |   |   |   |   | — | —
 V |   |   |   |   | — | —
 VI |   |   |   |   | — | —
 VII | bro ✅ | pas ✅ |   |   | — | —
-VIII | map ✅ | prz ✅ | ant ✅ |   | — | —
+VIII | ant ✅ | map ✅ | prz ✅ |   | — | —
 IX | kom ✅ | wys ✅ | kol ✅ |   | — | —
 X | cze ✅ | prz ✅ |   |   |   | —
 XI |   |   |   |   |   | —
 XII |   |   |   |   |   | —
-XIII | kra ✅ | okr ✅ |   |   |   | —
+XIII | okr ✅ | kra ✅ |   |   |   | —
 XIV |   |   |   |   |   | —
 XV | pla ✅ |   |   |   |   | —
 XVI | kam ✅ |   |   |   |   | —
-XVII | gil ✅ | kor ✅ | tes ✅ |   |   | —
+XVII | kor ✅ | gil ✅ | tes ✅ |   |   | —
 XVIII | liz ✅ |   |   |   |   | —
 XIX | lit ✅ |   |   |   |   | —
 XX |   |   |   |   |   | —
 XXI | kur ✅ |   |   |   |   | —
 XXII |   |   |   |   |   | —
 XXIII |   |   |   |   |   | —
-XXIV | rep 🤔 | sab ✅ | pod ✅ |   |   | —
-XXV | pow 🤔 | pra 🤔 | pio ✅ |   |   | —
-XXVI | klu 🤔 | nie 🤔 |   |   |   | —
+XXIV | sab ✅ | pod ✅ | rep 🤔 |   |   | —
+XXV | pow 🤔 | pio ✅ | pra 🤔 |   |   | —
+XXVI | nie 🤔 | klu 🤔 |   |   |   | —
 XXVII | pom 🤔 |   |   |   |   | —
 XXVIII | cuk ✅ |   |   |   |   | —
 XXIX |   |   |   |   |   | —
 XXX | ply ✅ |   |   |   |   | —
-XXXI | zap ✅ | prz ✅ | bud ✅ | cza ✅ | sat ✅ | —
-XXXII | bit ✅ | wal ✅ | spr ✅ | zam ✅ | usu ✅ | kas ✅
+XXXI | cza ✅ | sat ✅ | prz ✅ | zap ✅ | bud ✅ | —
+XXXII | wal ✅ | bit ✅ | kas ✅ | usu ✅ | zam ✅ | spr ✅
 
 
 ## Rozwiązane zadania z II etapu
@@ -120,26 +95,26 @@ VIII |   |   |   |   |
 IX | izo ✅ | dzi ✅ |   |   |  
 X |   |   |   |   |  
 XI |   |   |   |   |  
-XII |   | ban ✅ |   | kos 🤔 | sza ✅
+XII |   | ban ✅ |   | sza ✅ | kos 🤔
 XIII |   | met ✅ | naj ✅ |   |  
 XIV |   |   |   | tet ✅ |  
-XV | blo 🤔 | bbb ✅ | poc ✅ | maf ✅ | uci ✅
-XVI |   | kon ✅ | baj ✅ | lyz ✅ | arc ✅
-XVII |   | cho ✅ | klo ✅ | tel ✅ | owc 🤔
-XVIII |   | smi ✅ | roz ✅ | rod ✅ | tem ✅
-XIX |   | bon ✅ | sza ✅ | roz ✅ | okr ✅
-XX | spa 🤔 | luk 🤔 |   | mor ✅ | kon ✅
+XV | blo 🤔 | poc ✅ | bbb ✅ | maf ✅ | uci ✅
+XVI |   | kon ✅ | baj ✅ | arc ✅ | lyz ✅
+XVII |   | klo ✅ | cho ✅ | tel ✅ | owc 🤔
+XVIII |   | smi ✅ | roz ✅ | rot ✅ | tem ✅
+XIX |   | sza ✅ | bon ✅ | okr ✅ | roz ✅
+XX | spa 🤔 | luk 🤔 |   | kon ✅ | mor ✅
 XXI | kar ✅ | prz ✅ |   | raj ✅ | pta ✅
-XXII |   | pod ✅ | pus ✅ | trz ✅ | kur ✅
+XXII |   | pus ✅ | pod ✅ | kur ✅ | trz ✅
 XXIII | swi ✅ | dro ✅ | zaj ✅ | wca ✅ | ark ✅
 XXIV | zaw ✅ | sum ✅ | str ✅ | kon ✅ | zam ✅
-XXV | prz ✅ | dro ✅ | kon ✅ | tom ✅ | tel ✅
+XXV | prz ✅ | dro ✅ | kon ✅ | tel ✅ | tom ✅
 XXVI | roz 🤔 | gwi ✅ | kol ✅ | cyk ✅ | osi ✅
-XXVII | wak 🤔 | wie ✅ | czw ✅ | mar ✅ | tru 🤔
+XXVII | wak 🤔 | czw ✅ | wie ✅ | tru 🤔 | mar ✅
 XXVIII | pro ✅ | ple ✅ |   | pla ✅ |  
-XXIX | arm 🤔 | lic ✅ | age ✅ | kon 🤔 |  
-XXX | wir ✅ | wag ✅ | gra ✅ | wsp ✅ | drw ✅
-XXXI | tel ✅ | lic ✅ | ryc 🤔 | cia ✅ | poj ✅
+XXIX | arm 🤔 | age ✅ | lic ✅ | kon 🤔 |  
+XXX | wir ✅ | wag ✅ | gra ✅ | drw ✅ | wsp ✅
+XXXI | tel ✅ | ryc 🤔 | lic ✅ | cia ✅ | poj ✅
 XXXII | sss ✅ | drz ✅ |   | sch 🤔 | por ✅
 
 
@@ -164,17 +139,17 @@ XIV |   | — | gaz ✅ |   | — |   |   |
 XV |   | — | pod 🤔 |   |   | sta ✅ |   | —
 XVI |   | — |   |   |   |   |   | —
 XVII |   | — | gra ✅ |   |   | pil ✅ |   |  
-XVIII |   | — |   |   |   | pat ✅ | met ✅ |  
+XVIII |   | — |   |   |   | met ✅ | pat ✅ |  
 XIX |   | — | lic ✅ |   |   |   |   |  
 XX |   | — | lan ✅ |   |   | las ✅ |   |  
 XXI | far ✅ | — | tur 🤔 |   |   | zal ✅ |   |  
 XXII |   | — | wil ✅ |   |   | kol ✅ |   |  
-XXIII | row ✅ | — | zyw ✅ | pra ✅ | pos 🤔 |   |   |  
-XXIV |   | — | mid ✅ | oce ✅ |   | kuc 🤔 |   | —
+XXIII | row ✅ | — | pos 🤔 | zyw ✅ | pra ✅ |   |   |  
+XXIV |   | — | oce ✅ | mid ✅ |   | kuc 🤔 |   | —
 XXV | trz ✅ | dwa ✅ | kom 🤔 |   |   | tak ✅ |   |  
 XXVI | met ✅ | — | zja 🤔 | rem 🤔 |   | dlu ✅ |   |  
 XXVII | — | — | — | — | — | — | — | —
 XXVIII | kol 🤔 | — |   |   |   |   |   |  
 XXIX | zer ✅ |   | wyb ✅ | rze 🤔 | glo ✅ | met 🤔 |   |  
 XXX |   | — |   |   |   |   |   |  
-XXXI | sta 🤔 | — | buk 🤔 | wys 🤔 | ska 🤔 | wyj 🤔 |   |
+XXXI | sta 🤔 | — | buk 🤔 | ska 🤔 | wys 🤔 | wyj 🤔 |   |
