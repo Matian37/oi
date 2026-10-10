@@ -24,19 +24,19 @@ Repo contains four important parts:
 
 Etap I | Etap II | Etap III | Łącznie
 :---: | :---: | :---: | :---:
-42/150 (28%) | 82/157 (52%) | 37/200 (18%) | 161/507 (32%)
+43/150 (29%) | 82/157 (52%) | 38/200 (19%) | 163/507 (32%)
 
 ## Rozwiązane zadania wg edycji
 
 Edycja | Wynik | Edycja | Wynik | Edycja | Wynik | Edycja | Wynik
 :--- | ---: | :--- | ---: | :--- | ---: | :--- | ---:
-I | 4/10 (40%) | XI | 1/16 (6%) | XXI | 7/17 (41%) | XXXI | 9/17 (53%)
+I | 4/10 (40%) | XI | 2/16 (12%) | XXI | 7/17 (41%) | XXXI | 9/17 (53%)
 II | 5/14 (36%) | XII | 3/17 (18%) | XXII | 6/17 (35%) | XXXII | 10/18 (56%)
 III | 0/13 (0%) | XIII | 5/16 (31%) | XXIII | 8/17 (47%) |  | 
 IV | 3/16 (19%) | XIV | 2/16 (12%) | XXIV | 9/16 (56%) |  | 
 V | 1/16 (6%) | XV | 6/16 (38%) | XXV | 9/18 (50%) |  | 
 VI | 2/15 (13%) | XVI | 5/16 (31%) | XXVI | 6/17 (35%) |  | 
-VII | 4/15 (27%) | XVII | 8/17 (47%) | XXVII | 3/10 (30%) |  | 
+VII | 5/15 (33%) | XVII | 8/17 (47%) | XXVII | 3/10 (30%) |  | 
 VIII | 4/15 (27%) | XVIII | 8/17 (47%) | XXVIII | 4/17 (24%) |  | 
 IX | 6/15 (40%) | XIX | 6/17 (35%) | XXIX | 5/17 (29%) |  | 
 X | 2/16 (12%) | XX | 4/17 (24%) | XXX | 6/17 (35%) |  |
@@ -46,15 +46,15 @@ X | 2/16 (12%) | XX | 4/17 (24%) | XXX | 6/17 (35%) |  |
 
 Edycja | zad. 1 | zad. 2 | zad. 3 | zad. 4 | zad. 5 | zad. 6
 :--- | ---: | ---: | ---: | ---: | ---: | ---:
-I | pio 🤔 | spo ✅ | tro ✅ | — | — | —
-II | drz ✅ | jed ✅ | pal ✅ | jez ✅ | — | —
+I | spo ✅ | tro ✅ | pio 🤔 | — | — | —
+II | pal ✅ | drz ✅ | jez ✅ | jed ✅ | — | —
 III | gon 🤔 |   |   |   | — | —
 IV |   |   |   |   | — | —
 V |   |   |   |   | — | —
 VI |   |   |   |   | — | —
-VII | bro ✅ | pas ✅ |   |   | — | —
+VII | lan ✅ | bro ✅ | pas ✅ |   | — | —
 VIII | ant ✅ | map ✅ | prz ✅ |   | — | —
-IX | kom ✅ | wys ✅ | kol ✅ |   | — | —
+IX | kom ✅ | kol ✅ | wys ✅ |   | — | —
 X | cze ✅ | prz ✅ |   |   |   | —
 XI |   |   |   |   |   | —
 XII |   |   |   |   |   | —
@@ -62,22 +62,22 @@ XIII | okr ✅ | kra ✅ |   |   |   | —
 XIV |   |   |   |   |   | —
 XV | pla ✅ |   |   |   |   | —
 XVI | kam ✅ |   |   |   |   | —
-XVII | kor ✅ | gil ✅ | tes ✅ |   |   | —
+XVII | kor ✅ | tes ✅ | gil ✅ |   |   | —
 XVIII | liz ✅ |   |   |   |   | —
 XIX | lit ✅ |   |   |   |   | —
 XX |   |   |   |   |   | —
 XXI | kur ✅ |   |   |   |   | —
 XXII |   |   |   |   |   | —
 XXIII |   |   |   |   |   | —
-XXIV | sab ✅ | pod ✅ | rep 🤔 |   |   | —
-XXV | pow 🤔 | pio ✅ | pra 🤔 |   |   | —
-XXVI | nie 🤔 | klu 🤔 |   |   |   | —
+XXIV | rep 🤔 | sab ✅ | pod ✅ |   |   | —
+XXV | pio ✅ | pow 🤔 | pra 🤔 |   |   | —
+XXVI | klu 🤔 | nie 🤔 |   |   |   | —
 XXVII | pom 🤔 |   |   |   |   | —
 XXVIII | cuk ✅ |   |   |   |   | —
 XXIX |   |   |   |   |   | —
 XXX | ply ✅ |   |   |   |   | —
 XXXI | cza ✅ | sat ✅ | prz ✅ | zap ✅ | bud ✅ | —
-XXXII | wal ✅ | bit ✅ | kas ✅ | usu ✅ | zam ✅ | spr ✅
+XXXII | kas ✅ | zam ✅ | bit ✅ | spr ✅ | wal ✅ | usu ✅
 
 
 ## Rozwiązane zadania z II etapu
@@ -98,24 +98,24 @@ XI |   |   |   |   |
 XII |   | ban ✅ |   | sza ✅ | kos 🤔
 XIII |   | met ✅ | naj ✅ |   |  
 XIV |   |   |   | tet ✅ |  
-XV | blo 🤔 | poc ✅ | bbb ✅ | maf ✅ | uci ✅
+XV | blo 🤔 | bbb ✅ | poc ✅ | uci ✅ | maf ✅
 XVI |   | kon ✅ | baj ✅ | arc ✅ | lyz ✅
 XVII |   | klo ✅ | cho ✅ | tel ✅ | owc 🤔
-XVIII |   | smi ✅ | roz ✅ | rot ✅ | tem ✅
-XIX |   | sza ✅ | bon ✅ | okr ✅ | roz ✅
+XVIII |   | smi ✅ | roz ✅ | rot ✅ | rod ✅
+XIX |   | sza ✅ | bon ✅ | roz ✅ | okr ✅
 XX | spa 🤔 | luk 🤔 |   | kon ✅ | mor ✅
-XXI | kar ✅ | prz ✅ |   | raj ✅ | pta ✅
+XXI | kar ✅ | prz ✅ |   | pta ✅ | raj ✅
 XXII |   | pus ✅ | pod ✅ | kur ✅ | trz ✅
-XXIII | swi ✅ | dro ✅ | zaj ✅ | wca ✅ | ark ✅
-XXIV | zaw ✅ | sum ✅ | str ✅ | kon ✅ | zam ✅
-XXV | prz ✅ | dro ✅ | kon ✅ | tel ✅ | tom ✅
-XXVI | roz 🤔 | gwi ✅ | kol ✅ | cyk ✅ | osi ✅
-XXVII | wak 🤔 | czw ✅ | wie ✅ | tru 🤔 | mar ✅
+XXIII | swi ✅ | zaj ✅ | dro ✅ | wca ✅ | ark ✅
+XXIV | zaw ✅ | str ✅ | sum ✅ | zam ✅ | kon ✅
+XXV | prz ✅ | dro ✅ | kon ✅ | tom ✅ | tel ✅
+XXVI | roz 🤔 | gwi ✅ | kol ✅ | osi ✅ | cyk ✅
+XXVII | wak 🤔 | wie ✅ | czw ✅ | tru 🤔 | mar ✅
 XXVIII | pro ✅ | ple ✅ |   | pla ✅ |  
 XXIX | arm 🤔 | age ✅ | lic ✅ | kon 🤔 |  
-XXX | wir ✅ | wag ✅ | gra ✅ | drw ✅ | wsp ✅
-XXXI | tel ✅ | ryc 🤔 | lic ✅ | cia ✅ | poj ✅
-XXXII | sss ✅ | drz ✅ |   | sch 🤔 | por ✅
+XXX | wir ✅ | wag ✅ | gra ✅ | wsp ✅ | drw ✅
+XXXI | tel ✅ | ryc 🤔 | lic ✅ | poj ✅ | cia ✅
+XXXII | sss ✅ | drz ✅ |   | por ✅ | sch 🤔
 
 
 ## Rozwiązane zadania z III etapu
@@ -125,14 +125,14 @@ Edycja | Dzień próbny, zad. 1 | Dzień próbny, zad. 2 | Dzień 1 - zad. 1 | D
 I |   | — | ana ✅ |   | — |   | — | —
 II |   | — |   |   | — |   |   | —
 III |   | — |   |   | — |   |   | —
-IV |   | — | kaj ✅ | tro ✅ |   | rez ✅ |   | —
+IV |   | — | tro ✅ | kaj ✅ |   | rez ✅ |   | —
 V |   | — |   |   |   |   |   |  
 VI |   | — |   |   | — |   |   |  
 VII |   | — |   |   | — | age ✅ |   |  
 VIII |   | — |   |   | — | kop ✅ |   |  
 IX | min ✅ | — |   |   | — |   |   |  
 X |   | — |   |   | — |   |   |  
-XI |   | — |   |   |   | mis ✅ |   | —
+XI |   | — |   |   |   | mak ✅ | mis ✅ | —
 XII |   | — |   |   |   | aut ✅ |   |  
 XIII |   | — |   |   | — | pal ✅ |   |  
 XIV |   | — | gaz ✅ |   | — |   |   |  
@@ -144,12 +144,12 @@ XIX |   | — | lic ✅ |   |   |   |   |
 XX |   | — | lan ✅ |   |   | las ✅ |   |  
 XXI | far ✅ | — | tur 🤔 |   |   | zal ✅ |   |  
 XXII |   | — | wil ✅ |   |   | kol ✅ |   |  
-XXIII | row ✅ | — | pos 🤔 | zyw ✅ | pra ✅ |   |   |  
+XXIII | row ✅ | — | zyw ✅ | pos 🤔 | pra ✅ |   |   |  
 XXIV |   | — | oce ✅ | mid ✅ |   | kuc 🤔 |   | —
-XXV | trz ✅ | dwa ✅ | kom 🤔 |   |   | tak ✅ |   |  
+XXV | dwa ✅ | trz ✅ | kom 🤔 |   |   | tak ✅ |   |  
 XXVI | met ✅ | — | zja 🤔 | rem 🤔 |   | dlu ✅ |   |  
 XXVII | — | — | — | — | — | — | — | —
 XXVIII | kol 🤔 | — |   |   |   |   |   |  
-XXIX | zer ✅ |   | wyb ✅ | rze 🤔 | glo ✅ | met 🤔 |   |  
+XXIX | zer ✅ |   | wyb ✅ | glo ✅ | rze 🤔 | met 🤔 |   |  
 XXX |   | — |   |   |   |   |   |  
-XXXI | sta 🤔 | — | buk 🤔 | ska 🤔 | wys 🤔 | wyj 🤔 |   |
+XXXI | sta 🤔 | — | wys 🤔 | ska 🤔 | buk 🤔 | wyj 🤔 |   |
